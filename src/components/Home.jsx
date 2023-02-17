@@ -11,7 +11,7 @@ const Home = () => {
     <div className='flex flex-col justify-center h-screen items-center mx-auto w-full'>
     <h1 className='text-black mb-16 text-3xl md:w-fit w-[300px] md:text-5xl font-bold dark:text-white'>System Compatiblity Checker Tool</h1>
     <CompatibilityChecker/>
-    <a href='https://www.gogle.com' target='_blank'><AiFillGithub  className='text-black dark:text-white fixed right-8 bottom-5' size={30} /></a>
+    <a href='https://github.com/MrHacker26' target='_blank'><AiFillGithub  className='text-black dark:text-white fixed right-8 bottom-5' size={30} /></a>
     </div>
     </div>
   )
